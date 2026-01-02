@@ -1,0 +1,55 @@
+# =========================
+# Go
+# =========================
+
+# Binários e executáveis
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de build
+*.test
+*.out
+*.prof
+*.coverprofile
+
+# Binários comuns
+/bin/
+/dist/
+/build/
+
+# Dependências antigas (Go < 1.11)
+vendor/
+
+# Workspace Go
+go.work
+go.work.sum
+
+# Cache de testes
+.test/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# IDEs - JetBrains GoLand
+# =========================
+
+# Pasta principal da IDE
+.idea/
+
+# Arquivos específicos do GoLand
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# Sistema Operacional
+# =========================
+
+# Linux
+*~
