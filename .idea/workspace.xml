@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="558e0a71-f687-4c5f-8d55-332ebb9fd22f" name="Changes" comment="Adiciona operação POST">
+    <list default="true" id="558e0a71-f687-4c5f-8d55-332ebb9fd22f" name="Changes" comment="Adiciona operação DELETE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler/deleteOpening.go" beforeDir="false" afterPath="$PROJECT_DIR$/handler/deleteOpening.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler/listOpenings.go" beforeDir="false" afterPath="$PROJECT_DIR$/handler/listOpenings.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler/showOpening.go" beforeDir="false" afterPath="$PROJECT_DIR$/handler/showOpening.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +102,7 @@
     <MESSAGE value="Estrutura inicial do projeto" />
     <MESSAGE value="Adiciona request e response" />
     <MESSAGE value="Adiciona operação POST" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adiciona operação POST" />
+    <MESSAGE value="Adiciona operação DELETE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adiciona operação DELETE" />
   </component>
 </project>
